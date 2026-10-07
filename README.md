@@ -19,7 +19,7 @@ composition, top flags by activity, and how vessel-type mix differs region to re
 Tracks fishing activity over time and by region, with a small-multiples view comparing seasonal
 patterns across all seven areas side by side.
 
-![Fishing Activity page](Screenshots/3.Fishing Activity.png)
+![Fishing Activity page](Screenshots/3.FishingActivity.png)
 
 ### 4. Unknown Ships - Where Traffic Is High, the Gap Is Low
 Compares SAR (radar) detections against AIS-matched signals per region to surface vessels operating
@@ -27,4 +27,4 @@ without a public tracking signal. Includes a region-level gap index (% of SAR de
 match), a flag/true-false breakdown of matched vs. unmatched detections, and a scatter chart plotting
 traffic volume against gap size to show that busier regions tend to have proportionally lower risk.
 
-![Unknown Ships page](Screenshots/04-unknown-ships.png)
+![Unknown Ships page](Screenshots/4.Unknownships.png)
