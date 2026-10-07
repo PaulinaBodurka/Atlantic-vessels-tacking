@@ -7,19 +7,19 @@ tooltip describing its role: transit chokepoint, IUU fishing hotspot, upwelling 
 bycatch area, and more. Sets up the question the rest of the report answers: who operates where,
 and why these seven areas were chosen for comparison.
 
-![Cover page](screenshots/1.Cover.png)
+![Cover page](Screenshots/1.Cover.png)
 
 ### 2. Flags & Fleet - Who Sails These Waters
 Breaks down vessel traffic by flag state and vessel type across the seven regions. Shows fleet
 composition, top flags by activity, and how vessel-type mix differs region to region.
 
-![Flags & Fleet page](screenshots/2.Flags&Fleet.png)
+![Flags & Fleet page](Screenshots/2.Flags&Fleet.png)
 
 ### 3. Fishing Activity - When and Where Fishing Happens
 Tracks fishing activity over time and by region, with a small-multiples view comparing seasonal
 patterns across all seven areas side by side.
 
-![Fishing Activity page](screenshots/3.Fishing Activity.png)
+![Fishing Activity page](Screenshots/3.Fishing Activity.png)
 
 ### 4. Unknown Ships - Where Traffic Is High, the Gap Is Low
 Compares SAR (radar) detections against AIS-matched signals per region to surface vessels operating
@@ -27,4 +27,4 @@ without a public tracking signal. Includes a region-level gap index (% of SAR de
 match), a flag/true-false breakdown of matched vs. unmatched detections, and a scatter chart plotting
 traffic volume against gap size to show that busier regions tend to have proportionally lower risk.
 
-![Unknown Ships page](screenshots/04-unknown-ships.png)
+![Unknown Ships page](Screenshots/04-unknown-ships.png)
