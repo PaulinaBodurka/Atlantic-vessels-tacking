@@ -1,6 +1,6 @@
 ## Dashboard Pages
 
-### 1. Cover - The Same Atlantic, Seven Different Stories
+#1. Cover - The Same Atlantic, Seven Different Stories
 An interactive map of 7 Atlantic regions (Strait of Gibraltar, West Madeira, Mauritania/Senegal,
 Benguela Bay, Gulf of Cadiz, Setúbal, South Biscay), each color-coded and paired with a hover
 tooltip describing its role: the calm refernence bay, intensive coastal fishing, transit 
@@ -9,6 +9,24 @@ question the rest of the report answers: who operates where,
 and why these seven areas were chosen for comparison.
 
 🔗 [Open the Live Interactive Dashboard →](https://app.powerbi.com/view?r=eyJrIjoiNmVhMjg4MjYtMDZjOS00MWE3LTk2ZTgtY2ZmYjU5YzlmYWU1IiwidCI6ImJhOWFiZWRlLTZmOWYtNDRlMC05OWU4LTMwYjNmOGI5YzQ2YyJ9)
+
+## Background: What is AIS?
+
+The Automatic Identification System (AIS) is a safety technology required under
+the International Maritime Organization's SOLAS Convention (Regulation V/19).
+Ships broadcast their identity, position, course, speed, and navigational status
+to nearby vessels, shore stations, and satellites, primarily to prevent collisions
+and support search and rescue.
+
+AIS carriage is mandatory for:
+- All ships of 300 gross tonnage and above on international voyages
+- Cargo ships of 500 gross tonnage and above on domestic voyages
+- All passenger ships, regardless of size or voyage type
+
+This dashboard compares AIS signals against SAR (satellite radar) detections to
+identify vessels that appear on radar but are not broadcasting AIS — either due
+to equipment failure, being below the size threshold, or deliberately switching
+it off.
 
 ![Cover page](Screenshots/1.Cover.png)
 
