@@ -58,7 +58,7 @@ traffic volume against gap size to show that busier regions tend to have proport
 
 - Traffic volume and monitoring gap move in opposite directions: Gibraltar, the busiest
   region with 25,738 SAR detections, has the lowest AIS gap at just 9.05%, while South
-  Biscay, with only 1,176 detections, shows the highest gap at 49.32% — nearly 1 in 2
+  Biscay, with only 1,176 detections, shows the highest gap at 49.32% - nearly 1 in 2
   radar detections there have no matching AIS signal.
 
 - Across all seven regions, 12.98% of SAR detections (4,842 of 37,295) had no matching
