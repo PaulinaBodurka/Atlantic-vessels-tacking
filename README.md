@@ -8,6 +8,8 @@ chokepoint, IUU fishing hotspot, upwelling productivity zone, bycatch area, remo
 question the rest of the report answers: who operates where,
 and why these seven areas were chosen for comparison.
 
+🔗 [Open the Live Interactive Dashboard →](https://app.powerbi.com/view?r=eyJrIjoiNmVhMjg4MjYtMDZjOS00MWE3LTk2ZTgtY2ZmYjU5YzlmYWU1IiwidCI6ImJhOWFiZWRlLTZmOWYtNDRlMC05OWU4LTMwYjNmOGI5YzQ2YyJ9)
+
 ![Cover page](Screenshots/1.Cover.png)
 
 ### 2. Flags & Fleet - Who Sails These Waters
@@ -29,8 +31,6 @@ match), a flag/true-false breakdown of matched vs. unmatched detections, and a s
 traffic volume against gap size to show that busier regions tend to have proportionally lower risk.
 
 ![Unknown Ships page](Screenshots/4.UnknownShips.png)
-
-🔗 [Open the Live Interactive Dashboard →](https://app.powerbi.com/view?r=eyJrIjoiNmVhMjg4MjYtMDZjOS00MWE3LTk2ZTgtY2ZmYjU5YzlmYWU1IiwidCI6ImJhOWFiZWRlLTZmOWYtNDRlMC05OWU4LTMwYjNmOGI5YzQ2YyJ9)
 
 ##### Notable Insights
 
