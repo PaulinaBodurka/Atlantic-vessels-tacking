@@ -24,7 +24,7 @@ AIS carriage is mandatory for:
 - All passenger ships, regardless of size or voyage type
 
 This dashboard compares AIS signals against SAR (satellite radar) detections to
-identify vessels that appear on radar but are not broadcasting AIS — either due
+identify vessels that appear on radar but are not broadcasting AIS - either due
 to equipment failure, being below the size threshold, or deliberately switching
 it off.
 
